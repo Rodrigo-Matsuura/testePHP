@@ -9,4 +9,6 @@ APACHE
 
 PHP version: 7.1.3
 
-Para o projeto funcionar, deixe todos os arquivos .php no localhost, alterando o arquivo conexao.php com as configurações do servidor
+Para o projeto funcionar, deixe todos os arquivos .php no localhost, alterando o arquivo conexao.php com as configurações do servidor. 
+
+O arquivo .sql já importa a base de dados "crud", necessário somente importar o arquivo pelo MySQL.
